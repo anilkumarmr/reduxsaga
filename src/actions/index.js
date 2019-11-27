@@ -14,4 +14,8 @@ const setError = error => ({
     error
 });
 
-export { loadImages, setImages, setError }
+export {
+    loadImages,
+    setImages,
+    setError
+}

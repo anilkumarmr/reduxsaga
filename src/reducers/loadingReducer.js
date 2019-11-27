@@ -10,9 +10,6 @@ const loadingReducer = (state = false, action) => {
             return false;
         default:
             return state
-
     }
-
 }
-
 export default loadingReducer
